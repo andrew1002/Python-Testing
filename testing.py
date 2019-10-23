@@ -1,5 +1,4 @@
 import adds
-import gui
 
 def PrintFunction():
     print("Hellow World")
@@ -8,4 +7,4 @@ def PrintFunction():
 
 PrintFunction()
 adds.AdditionalFunction()
-gui.RunUserInterface()
+
