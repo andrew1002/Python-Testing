@@ -1,4 +1,4 @@
-import time
+import adds
 
 def PrintFunction():
     print("Hellow World")
