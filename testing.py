@@ -1,1 +1,4 @@
-print("Hellow World")
+def PrintFunction():
+    print("Hellow World")
+
+PrintFunction()
